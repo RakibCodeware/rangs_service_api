@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New folder\\RangsServiceApi\\RangsServiceApi\\RangsServiceApi.csproj": {}
+    "C:\\Users\\CW\\Desktop\\rangs_service_api\\RangsServiceApi.csproj": {}
   },
   "projects": {
-    "D:\\New folder\\RangsServiceApi\\RangsServiceApi\\RangsServiceApi.csproj": {
+    "C:\\Users\\CW\\Desktop\\rangs_service_api\\RangsServiceApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\RangsServiceApi\\RangsServiceApi\\RangsServiceApi.csproj",
+        "projectUniqueName": "C:\\Users\\CW\\Desktop\\rangs_service_api\\RangsServiceApi.csproj",
         "projectName": "RangsServiceApi",
-        "projectPath": "D:\\New folder\\RangsServiceApi\\RangsServiceApi\\RangsServiceApi.csproj",
-        "packagesPath": "C:\\Users\\EXCEL\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\RangsServiceApi\\RangsServiceApi\\obj\\",
+        "projectPath": "C:\\Users\\CW\\Desktop\\rangs_service_api\\RangsServiceApi.csproj",
+        "packagesPath": "C:\\Users\\CW\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\CW\\Desktop\\rangs_service_api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\EXCEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\CW\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,6 +64,10 @@
               "target": "Package",
               "version": "[7.0.14, )"
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"
@@ -89,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

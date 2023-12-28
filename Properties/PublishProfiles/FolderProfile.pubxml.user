@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Published\ServiceApi</_PublishTargetUrl>
+    <History>True|2023-12-27T10:08:56.5526022Z;True|2023-12-26T18:16:16.0492036+06:00;True|2023-12-26T15:58:37.2446934+06:00;True|2023-12-26T12:33:59.0026432+06:00;True|2023-12-24T11:53:39.5920709+06:00;True|2023-12-20T16:53:25.5493886+06:00;True|2023-12-12T17:05:07.6612525+06:00;True|2023-12-12T16:41:48.9106155+06:00;True|2023-12-12T16:21:47.4394603+06:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
